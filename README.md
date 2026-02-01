@@ -1,6 +1,6 @@
-# 📚 susgruppen.de – Grouping Students by Preferences and Performance Levels
+# 📚 group-students.com – Grouping Students by Preferences and Performance Levels
 
-**susgruppen.de** is a web-based tool that enables users to assign a given number of students into a specified number of groups based on defined criteria.
+**group-students.com** is a web-based tool that enables users to assign a given number of students into a specified number of groups based on defined criteria.
 
 ## 🎯 Grouping Criteria
 
@@ -169,4 +169,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 
 ## 👨‍🏫 Author
 
-Developed by SeppiBrocki, inspired by real-world needs in education for fair and preference-aware student group formation.
+Developed by sbrockschmidt, inspired by real-world needs in education for fair and preference-aware student group formation.
